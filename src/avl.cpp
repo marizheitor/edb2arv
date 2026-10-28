@@ -93,7 +93,7 @@ AVL::No* AVL::remover(No* no, int id, bool& removeu) {
             No* filho = no->esq ? no->esq : no->dir;
             delete no;
             return filho;                         
-        
+        }
         No* suc = no->dir;
         while (suc->esq) suc = suc->esq;
         no->chave = suc->chave;
