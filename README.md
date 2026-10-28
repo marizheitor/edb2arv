@@ -2,7 +2,7 @@
 
 Trabalho da Unidade II da disciplina **IMD0039 – Estruturas de Dados Básicas II** (IMD/UFRN).
 
-**Autor:** Heitor Gomes de Sena Melo Mariz — Matrícula: [MATRÍCULA]
+**Autor:** Heitor Gomes de Sena Melo Mariz — Matrícula: 20250037383
 
 ---
 
@@ -249,6 +249,6 @@ Os tempos foram medidos no WSL do autor e variam conforme a máquina. Altura, ro
 - **Rubro-Negra clássica:** bibliotecas de uso geral e sistemas com muitas escritas, onde o número máximo de rotações por operação importa.
 ---
 
-## Autor
+## Uso I.A.
 
-**Heitor Gomes de Sena Melo Mariz**
+**Utilizei inteligência artificial (Claude, da Anthropic) como apoio para compreender falhas no código, estruturar os testes, gerar as imagens .png dos slides e organizar o README.**
